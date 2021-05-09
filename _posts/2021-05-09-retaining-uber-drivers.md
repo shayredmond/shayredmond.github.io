@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Retaining Uber Drivers - Good Product Contest Submission"
 ---
 
