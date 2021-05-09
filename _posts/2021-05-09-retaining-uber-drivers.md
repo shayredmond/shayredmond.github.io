@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Retaining Uber Drivers - Good Product Contest Submission"
 ---
 
